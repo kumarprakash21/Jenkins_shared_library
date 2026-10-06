@@ -11,3 +11,4 @@ def call(String Docker_Hub_user, String IMAGE_NAME, String IMAGE_TAG){
             echo "Images is succefully pussed to docker hub"
             '''
 }
+}
